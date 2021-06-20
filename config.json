@@ -1,6 +1,6 @@
 {
-	"ip": "playgoy.mc-srv.com"
-	"port": "40241",
+	"ip":"playgoy.mc-srv.com"
+	"port":"40241",
 	"name": "bot",
 	"auto-night-skip":"true"
 }
